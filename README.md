@@ -7,3 +7,5 @@
 [Урок 11](https://github.com/Nikolay1802/nikolay1802.github.io/tree/master/lesson_11 "Снипеты")
 
 [Урок 12](https://nikolay1802.github.io/lesson_12 "Работа с репозиторием на GitHab")
+
+[Урок 13](https://nikolay1802.github.io/lesson_13 "Адаптивная верстка")
