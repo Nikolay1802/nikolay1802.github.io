@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>  
+    <link rel="image_src" href="img/preview.jpg" /> 
+    <title>Подбор шрифтов</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+  	<link rel="stylesheet" href="css/style.css"/>    
+  </head>
+
+  <body>
+    <header>
+    	<div class="container">
+  				<div class="text-box"><input type="search" class="form-control" autofocus placeholder="Введите свою фразу"></div>
+  				<div class="fonts">
+  					<p1><p class="resault">Начните писать фразу</p></p1>
+  					<small>Вот так выглядит шрифт <strong>Open Sans</strong></small>
+  					<hr>
+  					<p2><p class="resault">Начните писать фразу</p></p2>
+  					<small>Вот так выглядит шрифт <strong>Bebas</strong></small>
+  					<hr>
+  					<p3><p class="resault">Начните писать фразу</p></p3>
+  					<small>Вот так выглядит шрифт <strong>Lato</strong></small>
+  					<hr>
+  					<p4><p class="resault">Начните писать фразу</p></p4>
+  					<small>Вот так выглядит шрифт <strong>Lobster</strong></small>
+  					
+  				</div>
+    	</div>
+    </header>
+
+   
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+   
+    <script>
+    		$('input').keyup(function(){
+    			$('p.resault').text($('input').val())
+    		});
+    </script>
+  </body>
+</html>
