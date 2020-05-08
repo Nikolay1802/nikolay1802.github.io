@@ -11,3 +11,5 @@
 [Урок 13](https://nikolay1802.github.io/lesson_13 "Адаптивная верстка")
 
 [Урок 14](https://nikolay1802.github.io/lesson_14 "Практика. Часть первая") Сверстали шапку
+
+[Урок 15](https://nikolay1802.github.io/lesson_15/ "Подключение шрифтов")
